@@ -1,1 +1,0 @@
-![](https://github.com/Alexkuva/The-Rougon-Macquart-project/blob/master/Hands-On/Structured%20streaming%20with%20Azure%20Databricks%20from%20IotHub%20to%20Cosmos%20DB/Media/struct-streaming-archi.png 'Structured streaming with Azure Databricks from IotHub to Cosmos DB')
