@@ -1,4 +1,4 @@
-Databricks Series:
+#Databricks Series:
 
 We decided to kick off a series of articles to walk you through the key concepts of Azure Databricks. Our goal is to help you from scratch to deploy your solution in production using Databricks.
 
@@ -27,18 +27,18 @@ Under this repository, you will find several tools, decribe bellow:
 * Databricks migration tools
 
 
-Use Case:
+#Use Case:
 
 In order to help you practice everything you will learn, we decided to end our series with the implementation of a concrete AI Enterprise use case.
 
 Today, France has four different power plants: nuclear plant, solar panels, wind turbine and coal-fire plant. One of the biggest challenges faced by this industrial facility is the over-consumption caused by one of the stations.
 In order to tackle this challenge we simulate the behavior of these power plants through telemetry devices.
 The aim of our solution is to predict and redirect the over-consumption. Whenever this scenario happens, our algorithm will pick beforehand the best candidate to absorb the marginal consumption:
-![](/images/use_case.gif)
+![](/images/use_case.PNG)
 
 Our power plant information is simulated from weather history, from the last couple of years.
 
 The architecture to be implemented for our use case will be as follows:
-![](/images/architecture_use_case.gif)
+![](/images/architecture_use_case.PNG)
 
 You can find the complete code and detail of the use case, in the [following folder](/use-case) [work in progress].
