@@ -1,0 +1,13 @@
+{ 
+    "devicename": "ironlady",
+    "type": "nuclear",
+    "temperature": 15.1674,
+    "plantTemperature": 335.1674,
+    "charge": 67.59309,
+    "localisation":{
+        "type" : "Point",
+        "coordinates": [48.8551242798963,2.2946360699935164]
+    }
+    ,"city":"Paris"
+    ,"disponibility": 31
+}
