@@ -35,13 +35,13 @@ Today, France has four different power plants: nuclear plant, solar panels, wind
 In order to tackle this challenge we simulate the behavior of these power plants through telemetry devices.
 The aim of our solution is to predict and redirect the over-consumption. Whenever this scenario happens, our algorithm will pick beforehand the best candidate to absorb the marginal consumption:
 
-![Use case](./images/use_case.png)
+![Use case](./images/use_case.PNG)
 
 
 Our power plant information is simulated from weather history, from the last couple of years.
 
 The architecture to be implemented for our use case will be as follows:
 
-![Architecture's use case](./images/architecture_use_case.png)
+![Architecture's use case](./images/architecture_use_case.PNG)
 
 You can find the complete code and detail of the use case, in the [following folder](./use-case) [work in progress].
