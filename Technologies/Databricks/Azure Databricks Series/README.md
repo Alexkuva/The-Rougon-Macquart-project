@@ -39,6 +39,6 @@ The aim of our solution is to predict and redirect the over-consumption. Wheneve
 Our power plant information is simulated from weather history, from the last couple of years.
 
 The architecture to be implemented for our use case will be as follows:
-![Architecture's use case](/images/architecture_use_case.PNG)
+![Architecture's use case](/images/architecture_use_case.png)
 
 You can find the complete code and detail of the use case, in the [following folder](/use-case) [work in progress].
