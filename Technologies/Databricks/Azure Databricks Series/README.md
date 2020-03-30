@@ -34,7 +34,7 @@ In order to help you practice everything you will learn, we decided to end our s
 Today, France has four different power plants: nuclear plant, solar panels, wind turbine and coal-fire plant. One of the biggest challenges faced by this industrial facility is the over-consumption caused by one of the stations.
 In order to tackle this challenge we simulate the behavior of these power plants through telemetry devices.
 The aim of our solution is to predict and redirect the over-consumption. Whenever this scenario happens, our algorithm will pick beforehand the best candidate to absorb the marginal consumption:
-![Use case](/images/use_case.png)
+![use_case](/images/use_case.png)
 
 Our power plant information is simulated from weather history, from the last couple of years.
 
