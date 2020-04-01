@@ -6,19 +6,20 @@ We will start by explaining the architecture behind the platform along with the 
 Then, we will end the series by implementing together our solution from scratch.
 
 You can find links throught the articles over there:
-* [Azure Databricks - Part 1: Introduction]()
+* [Azure Databricks - Part 1: Introduction](https://medium.com/datalex/azure-databricks-part-1-introduction-40e07de88a09)
 * Azure Databricks - Part 2.1: The architecture behind
 * Azure Databricks - Part 2.2: Getting familiar with Databricks UI
 * Azure Databricks - Part 3: Connect Azure storage to Databricks
 * Azure Databricks - Part 4.1: Data protection
 * Azure Databricks - Part 4.2: Authentication through Databricks
 * Azure Databricks - Part 4.3: Secure your network
-* Azure Databricks - Part 5: Configure the development environment
-* Azure Databricks - Part 6.1: Integration of Databricks in your CI/CD pipeline
-* Azure Databricks - Part 6.2: Schedule your work
-* Azure Databricks - Part 7: Stay on top of Databricks best practices
-* Azure Databricks - Part 8: Using Databricks in a big company
-* Azure Databricks - Part 9: Use case - from ingestion to visualization
+* Azure Databricks — Part 5: Monitor your plateforme
+* Azure Databricks - Part 6: Configure the development environment
+* Azure Databricks - Part 7.1: Integration of Databricks in your CI/CD pipeline
+* Azure Databricks - Part 7.2: Schedule your work
+* Azure Databricks - Part 8: Stay on top of Databricks best practices
+* Azure Databricks - Part 9: Using Databricks in a big company
+* Azure Databricks - Part 10: Use case - from ingestion to visualization
 * [Azure Databricks - Bonus: Spark AI Summit 2019 Overview](https://medium.com/datalex/spark-ai-summit-2019-overview-b001a546bdef)
 
 Under this repository, you will find several tools, decribe bellow:
